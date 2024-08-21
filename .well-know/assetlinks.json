@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "areamovil.aviancataca.qa",
+    "sha256_cert_fingerprints":
+   ["05:7D:F0:48:F6:B8:D4:8C:E9:19:29:C9:CB:4B:63:C0:2F:02:C4:F8:7E:8A:10:FD:58:26:EE:78:CD:FE:73:F9"]
+  }
+}]
